@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋我叫沛沛(kiki)
 
+🎨我喜歡畫畫
+
+🐹養天竺鼠
+
+📨114b00371@mailst.cjcu.edu.tw
 <!--
 **114b00371-ui/114b00371-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...114b00371@mailst.cjcu.edu.tw
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
